@@ -1,4 +1,4 @@
-[![MasterHead](https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5e7c654a8a6891585210698.png)](https://github.com/Priyanka-Bisht)
+[![MasterHead](https://www.courier.com/docs/assets/images/send-notification-code-stack-c32ef9a026b1d9f5769954dbdecff493.gif)](https://github.com/Priyanka-Bisht)
 <h1 align="center">Hi 👋, I'm Priyanka Bisht</h1>
 <h3 align="center">I am passionate about data science and cloud & devOps</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xuUhquTiWKWHE26xthTaJTRtQQ0At3zIYg&usqp=CAU">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL and about data**
+- 🌱 I’m currently learning **Python, SQL and Data Science**
 
 - 💬 Ask me about **Python, cloud and devops**
 
