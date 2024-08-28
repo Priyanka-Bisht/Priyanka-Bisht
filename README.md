@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL and Data Science**
+- 🌱 I’m currently Working As a **DevOps engineer** and learning **Python, SQL and Data Science**
 
 - 💬 Ask me about **Python, cloud and devops**
 
