@@ -1,6 +1,6 @@
 [![MasterHead](https://www.courier.com/docs/assets/images/send-notification-code-stack-c32ef9a026b1d9f5769954dbdecff493.gif)](https://github.com/Priyanka-Bisht)
 <h1 align="center">Hi 👋, I'm Priyanka Bisht</h1>
-<h3 align="center">I am passionate about data science and cloud & devOps</h3>
+<h3 align="center">I am passionate about data science, cloud & devOps</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xuUhquTiWKWHE26xthTaJTRtQQ0At3zIYg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-bisht" /> </p>
